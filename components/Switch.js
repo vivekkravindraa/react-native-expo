@@ -1,0 +1,9 @@
+// Props
+// disabled
+// trackColor
+// ios_backgroundColor
+// onValueChange
+// testID
+// thumbColor
+// tintColor
+// value

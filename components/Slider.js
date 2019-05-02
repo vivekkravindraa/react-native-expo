@@ -1,0 +1,17 @@
+// Props
+// style
+// disabled
+// maximumValue
+// minimumTrackTintColor
+// minimumValue
+// onSlidingComplete
+// onValueChange
+// step
+// maximumTrackTintColor
+// testID
+// value
+// thumbTintColor
+// maximumTrackImage
+// minimumTrackImage
+// thumbImage
+// trackImage
